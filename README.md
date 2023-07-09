@@ -1,2 +1,3 @@
-# QGIS_vector
-Load vector layer in QGIS and export data to csv file
+# QGIS_Automation
+Iterate through many input files to QGIS and export results to specific output
+
